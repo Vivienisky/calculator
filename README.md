@@ -1,6 +1,7 @@
 # calculator
-**Homework 2**
 
+**Homework 2**
+```
 using System;
 
 class Program
