@@ -1,6 +1,6 @@
 # calculator
 
-**Homework 2**
+**Homework 2 switch**
 ```
 using System;
 
