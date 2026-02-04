@@ -1,7 +1,7 @@
 #calculator
 
 **Homework 2 метод float**
-  
+```
   using System;
 
 class Calculator
